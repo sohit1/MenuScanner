@@ -21,7 +21,6 @@
 
 .title
 {
-    max-width: 80% !important;
     margin:auto !important;
     text-align: center !important;
     font-size:3em !important;
@@ -89,4 +88,11 @@
     font-weight: bold;
     text-align: center;
     margin-bottom: 6% !important;
+}
+
+.note {
+    font-size: 50px;
+    font-weight: 600;
+    color: red;
+
 }
